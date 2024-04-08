@@ -76,7 +76,7 @@ $(brew --prefix)/bin/npm install --global prettier
 # Define an array of applications to install using Homebrew Cask.
 apps=(
     "google-chrome"
-    "firefox"
+    #"firefox"
     "brave-browser"
     "sublime-text"
     "visual-studio-code"
